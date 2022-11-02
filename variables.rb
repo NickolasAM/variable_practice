@@ -1,0 +1,2 @@
+car = "Ferrari"
+pet = "Dog"
